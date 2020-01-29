@@ -1,0 +1,9 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.0.3",
+        "server_scripts": [
+                "server/packagesversions.lua",
+                "server/json.lua"
+        ]
+}
